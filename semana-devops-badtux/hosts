@@ -1,0 +1,14 @@
+[local]
+localhost ansible_connection=local ansible_python_interpreter=python gather_facts=false
+
+[manager]
+192.168.1.110
+
+[worker]
+192.168.1.111
+
+
+[ec2]
+3.236.59.164
+34.204.171.70
+3.215.190.161
