@@ -4,6 +4,8 @@ Hey guys, this repository I will use to store some tests, PoCs  and materials th
 
 ## Books
 * Ansible for devops
+  * You can download a free excerp https://www.ansible.com/resources/ebooks/ansible-for-devops
+  * Or buy the full book https://www.ansiblefordevops.com/
 
 ## Vídeos
 * Linux Tips channel
