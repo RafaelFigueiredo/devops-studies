@@ -6,6 +6,5 @@ Hey guys, this repository I will use to store some tests, PoCs  and materials th
 * Ansible for devops
 
 ## Vídeos
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=BYM6tqn2UvQ" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+* Linux Tips channel
+[![Watch the video](https://img.youtube.com/vi/BYM6tqn2UvQ/hqdefault.jpg)](https://www.youtube.com/watch?v=BYM6tqn2UvQ)
